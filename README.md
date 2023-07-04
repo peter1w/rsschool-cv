@@ -1,2 +1,2 @@
 # rsschool-cv
-# 1. Petr Shidlovsky
+# https://peter1w.github.io/rsschool-cv/cv
