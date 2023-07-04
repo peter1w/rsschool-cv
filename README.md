@@ -1,2 +1,2 @@
 # rsschool-cv
-# Shidlovsky Piotr
+# 1. Petr Shidlovsky
